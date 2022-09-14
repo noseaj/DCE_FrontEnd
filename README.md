@@ -8,11 +8,11 @@ RDCE를 통해 내가 어떤 주제에 관심 있는지, 나를 귀찮게 하는
   
 ## 필수 설정 - IMAP을 사용해주세요!
   
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)]
+![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)
 메일 왼쪽 아래의 환경설정 > POP3 / IMAP 설정 > IMAP / SMTP 설정 탭에서 IMAP/SMTP 사용 옵션을 사용함으로 설정, IMAP 동기화 설정 제한 5,000통으로 설정   
 ![image](https://user-images.githubusercontent.com/71928522/189707903-733f1250-fde3-420f-816d-9a567a146250.png)
 
-### Google (Gmail)
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)
 오른쪽 상단에서 설정 설정 다음 모든 설정 보기 클릭 > 전달 및 POP/IMAP 탭 클릭 > 'IMAP 액세스' 섹션에서 IMAP 사용 선택 > 변경사항 저장 클릭 
 
 ### Daum
