@@ -36,7 +36,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://kwangjungoss.github.io/DCE_FrontEnd/",
+  "homepage": "https://noseaj.github.io/DCE_FrontEnd/",
   "eslintConfig": {
     "extends": [
       "react-app",
