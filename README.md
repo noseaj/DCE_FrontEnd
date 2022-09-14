@@ -31,10 +31,10 @@ Text-mining을 통한 메일 분석!
 
 ## 시스템 환경설정  
 
-nodejs = v18.8.0
-npm = 8.18.0
+node version :  v18.8.0  
+npm version :  8.18.0  
 
-# 패키지
+### 패키지
 ```
 pip install nodejs
 pip install npm
