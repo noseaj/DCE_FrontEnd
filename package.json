@@ -35,7 +35,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://seo-inyoung.github.io/dce-client/",
+  "homepage": "https://kwangjungoss.github.io/DCE_FrontEnd/",
   "eslintConfig": {
     "extends": [
       "react-app",
