@@ -30,11 +30,10 @@ Text-mining을 통한 메일 분석!
 ![image](https://user-images.githubusercontent.com/71928522/189708430-c80fc4c0-7318-4f8c-baf9-f3963c5e67c4.png)
 
 ## 시스템 환경설정  
-
-node version :  v18.8.0  
+Node version :  v18.8.0  
 npm version :  8.18.0  
 
-### 패키지
+패키지  
 ```
 pip install nodejs
 pip install npm
