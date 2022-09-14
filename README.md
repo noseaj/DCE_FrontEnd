@@ -15,7 +15,7 @@ RDCE를 통해 내가 어떤 주제에 관심 있는지, 나를 귀찮게 하는
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)  
 오른쪽 상단에서 설정 설정 다음 모든 설정 보기 클릭 > 전달 및 POP/IMAP 탭 클릭 > 'IMAP 액세스' 섹션에서 IMAP 사용 선택 > 변경사항 저장 클릭 
 
-![Daum Badge](https://img.shields.io/badge/Daum?style=flat&logo=Daum&logoColor=white)  
+![Daum Badge](https://img.shields.io/badge/D?style=flat&logo=Daum&logoColor=white)  
 메일 왼쪽 아래의 환경설정 > IMAP/POP3 설정에서 사용 여부 설정
 
 ## 주요 기능
