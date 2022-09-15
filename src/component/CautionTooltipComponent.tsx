@@ -25,7 +25,7 @@ const CautionTooltipComponent = (): JSX.Element => {
                 title={
                     <React.Fragment>
                         <Typography color="inherit">How to use</Typography>
-                        <p>DCE : 메일 한개당 발생하는 탄소의 양은 4g이라고 합니다. 우리 모두 지구를 위한 메일 지우기를 시작으로 작은 실천을 합시다. </p>
+                        <p>RDCE : 메일 한개당 발생하는 탄소의 양은 4g이라고 합니다. 우리 모두 지구를 위한 메일 지우기를 시작으로 작은 실천을 합시다. </p>
                         <p>IMAP 설정 : 우리의 서비스를 사용하려면 메일에서 IMAP/SMTP 설정을 사용함으로 설정해주셔야 합니다.</p>
                         <br/>
                         <p>네이버:<br/>메일 왼쪽 아래의 환경설정 &gt; POP3 / IMAP 설정 &gt; IMAP / SMTP 설정 탭에서 IMAP/SMTP 사용 옵션을 사용함으로 설정</p>
