@@ -68,8 +68,10 @@ export const getAccountInfo = async(dto: accountDTO) => {
     // const url = "http://3.38.123.103";
     const resultMsg: resultDTO = await axios.post(url, dto)
         .then((data) => {
+            console.log(data.request)
             console.log(data)
             console.log(data.data)
+            console.log(data.data.data)
             return data.data;
             // return msg;
         }
