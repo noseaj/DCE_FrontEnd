@@ -5,6 +5,7 @@
 
 .login-left{
   flex: 1;
+  background-color: #ffffff;
 }
 
 .login-right{
@@ -16,6 +17,7 @@
 .theme-label {
   text-align: center;
   color: #666666;
+  font-size: 20px;
   margin-top: -140px;
 
   -ms-user-select: none; 
