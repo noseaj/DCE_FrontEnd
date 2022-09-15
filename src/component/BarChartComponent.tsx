@@ -59,7 +59,7 @@ const BarChartComponent = (): JSX.Element => {
   return (
     <div className="bar-chart">
       <div className="pie-title">Bar Chart</div>
-      <p>설명설명</p>
+      <p>당신의 메일함을 많이 차지하는 비율입니다.</p>
       <Bar options={options} data={data} />
     </div>
   );
