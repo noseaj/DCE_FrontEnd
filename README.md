@@ -31,7 +31,7 @@ Text-mining을 통한 메일 분석!
 
 ## TypeScript based React Project
 * 디지털 탄소 배출 절감을 위한 AI 기반 데이터분석 Dashboard
-* https://noseaj.github.io/dce-client/
+* https://noseaj.github.io/DCE_FrontEnd/
 
 ## Prerequistes
 
