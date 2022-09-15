@@ -72,7 +72,7 @@ export const getAccountInfo = async(dto: accountDTO) => {
             console.log(data)
             console.log(data.data)
             console.log(data.data.data)
-            return data.data;
+            return data.data.data;
             // return msg;
         }
         ).catch((error) => {
