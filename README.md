@@ -29,14 +29,30 @@ Text-mining을 통한 메일 분석!
 ## 시스템 구성 및 아키텍처
 ![image](https://user-images.githubusercontent.com/71928522/189708430-c80fc4c0-7318-4f8c-baf9-f3963c5e67c4.png)
 
-## 시스템 환경설정  
-Node version :  v18.8.0  
-npm version :  8.18.0  
+TypeScript based React Project
+* 디지털 탄소 배출 절감을 위한 AI 기반 데이터분석 Dashboard
+* https://noseaj.github.io/dce-client/
 
-패키지  
+## Prerequistes
+
+node.js & npm
+
+## checkout, build & run
+
 ```
-pip install nodejs
-pip install npm
-npm install -g yarn
-yarn install
+1. git clone
+2. npm install -g yarn
+3, yarn install
+4. npm run start or yarn start
+```
+
+## Directroy
+
+```
+* src : 개발 폴더
+** assets : svg 이미지 폴더
+** component : 컴포넌트 폴더
+** repository : api (서버와의 통신) 폴더
+** store : state 관리 폴더
+** style : css 스타일 폴더
 ```
